@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "name": "flint-app-peruse",
+  "repository": "https://github.com/peruse",
+  "description": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "react": "^0.14.3"
+  },
+  "installed": []
+}
